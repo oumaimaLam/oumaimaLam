@@ -1,8 +1,7 @@
-### 
+### Maker
 
-Maker, 
-Add programming skills
-Analytical skills
+
+
 
 
 <!--
