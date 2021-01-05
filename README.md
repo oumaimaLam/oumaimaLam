@@ -2,7 +2,7 @@
 #### Maker, ...
 
 ##### Find me at:
-<p align="center">
+<p align="left">
     <a href="https://www.linkedin.com/in/oumaimalam/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
     <a href="https://www.researchgate.net/profile/Oumaima_Lamaakel" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
     <a href="https://orcid.org/0000-0002-5243-6637" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
@@ -10,7 +10,7 @@
 </p>
 
 ##### Technologies and tools:
-<p align="center">  
+<p align="left">  
     <a href="https://github.com/oumaimaLam?tab=repositories" target="_blank"><img alt="C" <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat-square&logo=c&logoColor=white"/>
     <a href="https://github.com/oumaimaLam?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>    
     <a href="https://github.com/oumaimaLam?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>    
@@ -23,7 +23,7 @@
 </p>
 
 ##### Design and CAD:
-<p align="center">
+<p align="left">
 <a href="https://github.com/oumaimaLam?tab=repositories" target="_blank">
 <img alt="photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=flat-square&logo=adobe%20photoshop&logoColor=white"/>
 <a href="https://github.com/oumaimaLam?tab=repositories" target="_blank">
