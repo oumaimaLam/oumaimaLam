@@ -12,7 +12,7 @@
 
 ##### Technologies and tools:
 <p align="center">
-    <a href="https://github.com/oumaimaLam?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
+    <a href="https://github.com/oumaimaLam?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=C&logoColor=white"></a>
     <a href="https://github.com/oumaimaLam?tab=repositories" target="_blank"><img alt="Code" <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat-square&logo=c&logoColor=white"/>
     <a href="https://github.com/oumaimaLam?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
     <a href="https://github.com/oumaimaLam?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
