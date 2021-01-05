@@ -19,6 +19,7 @@
     <a href="https://github.com/oumaimaLam?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
     <a href="https://github.com/oumaimaLam?tab=repositories&language=matlab" target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/-MATALB-0076A8?style=flat-square&logo=Mathworks&logoColor=white"></a>
     <a href="https://github.com/oumaimaLam?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
+    <a href="https://github.com/oumaimaLam?tab=repositories&language=Jupyter" target="_blank"><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" />
     <a href="https://github.com/oumaimaLam?tab=repositories&language=RaspberryPi" target="_blank"><img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi"></a>
     <a href="https://github.com/oumaimaLam?tab=repositories&language=Arduino" target="_blank"><img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
 </p>
