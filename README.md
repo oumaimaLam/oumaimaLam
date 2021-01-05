@@ -24,6 +24,15 @@
     <a href="https://github.com/oumaimaLam?tab=repositories&language=Arduino" target="_blank"><img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
 </p>
 
+##### Design and CAD:
+<p align="center">
+<a href="https://github.com/oumaimaLam?tab=repositories" target="_blank">
+<img alt="photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=flat-square&logo=adobe%20photoshop&logoColor=white"/>
+<a href="https://github.com/oumaimaLam?tab=repositories" target="_blank">
+<img alt="illustrator" src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=flat-square&logo=adobe%20illustrator&logoColor=white"/>
+</p>
+
+
 <p align="center">
     <a href="https://github.com/oumaimaLam/oumaimaLam" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/oumaimaLam/oumaimaLam?label=last%20updated&style=flat-square"></a>
 </p>
