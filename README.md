@@ -11,8 +11,7 @@
 </p>
 
 ##### Technologies and tools:
-<p align="center">
-    <a href="https://github.com/oumaimaLam?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=C&logoColor=white"></a>    
+<p align="center">  
     <a href="https://github.com/oumaimaLam?tab=repositories" target="_blank"><img alt="C" <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat-square&logo=c&logoColor=white"/>
     <a href="https://github.com/oumaimaLam?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>    
     <a href="https://github.com/oumaimaLam?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>    
