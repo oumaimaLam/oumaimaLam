@@ -1,7 +1,7 @@
 ### Hello
-## Maker, ...
+#### Maker, ...
 
-Find me at:
+##### Find me at:
 <p align="center">
     <a href="https://github.com/oumaimaLam" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@oumaimaLam-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/oumaimalam/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
@@ -10,6 +10,7 @@ Find me at:
      <a href="https://www.hackerrank.com/oumaimalam" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white"></a>    
 </p>
 
+##### Technologies and tools:
 <p align="center">
     <a href="https://github.com/alwinw?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
     <a href="https://github.com/alwinw?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
