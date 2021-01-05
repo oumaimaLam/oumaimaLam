@@ -24,5 +24,5 @@
 
 <p align="center">
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwinw&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
-    <a href="https://github.com/oumaimaLam/oumaimaLam" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/oumaimaLam/oumaimaLam?label=profile%20updated&style=flat-square"></a>
+    <a href="https://github.com/oumaimaLam/oumaimaLam" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/oumaimaLam/oumaimaLam?label=last%20updated&style=flat-square"></a>
 </p>
