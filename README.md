@@ -1,7 +1,5 @@
 ### Hello
-#### Maker, ...
 
-##### Find me at:
 <p align="left">
     <a href="https://www.linkedin.com/in/oumaimalam/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
     <a href="https://www.researchgate.net/profile/Oumaima_Lamaakel" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
@@ -9,7 +7,6 @@
      <a href="https://www.hackerrank.com/oumaimalam" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white"></a>    
 </p>
 
-##### Technologies and tools:
 <p align="left">  
     <a href="https://github.com/oumaimaLam?tab=repositories" target="_blank"><img alt="C" <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat-square&logo=c&logoColor=white"/>
     <a href="https://github.com/oumaimaLam?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>    
@@ -22,7 +19,6 @@
     <a href="https://github.com/oumaimaLam?tab=repositories&language=Arduino" target="_blank"><img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
 </p>
 
-##### Design and CAD:
 <p align="left">
 <a href="https://github.com/oumaimaLam?tab=repositories" target="_blank">
 <img alt="photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=flat-square&logo=adobe%20photoshop&logoColor=white"/>
