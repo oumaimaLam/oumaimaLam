@@ -21,7 +21,6 @@
     <a href="https://github.com/oumaimaLam?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
 </p>
 
-
 <p align="center">
     <a href="https://github.com/oumaimaLam/oumaimaLam" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/oumaimaLam/oumaimaLam?label=last%20updated&style=flat-square"></a>
 </p>
