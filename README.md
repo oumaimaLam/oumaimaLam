@@ -12,15 +12,15 @@
 
 ##### Technologies and tools:
 <p align="center">
-    <a href="https://github.com/oumaimaLam?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=C&logoColor=white"></a>
-    <a href="https://github.com/oumaimaLam?tab=repositories" target="_blank"><img alt="Code" <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat-square&logo=c&logoColor=white"/>
-    <a href="https://github.com/oumaimaLam?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=python&logoColor=white"></a>
-    <a href="https://github.com/oumaimaLam?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
-    <a href="https://github.com/oumaimaLam?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
-    <a href="https://github.com/oumaimaLam?tab=repositories&language=matlab" target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/-MATALB-0076A8?style=flat-square&logo=Mathworks&logoColor=white"></a>
-    <a href="https://github.com/oumaimaLam?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
-    <a href="https://github.com/oumaimaLam?tab=repositories&language=Jupyter" target="_blank"><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" />
-    <a href="https://github.com/oumaimaLam?tab=repositories&language=RaspberryPi" target="_blank"><img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi"></a>
+    <a href="https://github.com/oumaimaLam?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=C&logoColor=white"></a>    
+    <a href="https://github.com/oumaimaLam?tab=repositories" target="_blank"><img alt="C" <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat-square&logo=c&logoColor=white"/>
+    <a href="https://github.com/oumaimaLam?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>    
+    <a href="https://github.com/oumaimaLam?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>    
+    <a href="https://github.com/oumaimaLam?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>    
+    <a href="https://github.com/oumaimaLam?tab=repositories&language=matlab" target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/-MATALB-0076A8?style=flat-square&logo=Mathworks&logoColor=white"></a>    
+    <a href="https://github.com/oumaimaLam?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>    
+    <a href="https://github.com/oumaimaLam?tab=repositories&language=Jupyter" target="_blank"><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" />    
+    <a href="https://github.com/oumaimaLam?tab=repositories&language=RaspberryPi" target="_blank"><img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi"></a>   
     <a href="https://github.com/oumaimaLam?tab=repositories&language=Arduino" target="_blank"><img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
 </p>
 
