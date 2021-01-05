@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/alwinw/alwinw" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/alwinw/alwinw?label=profile%20updated&style=flat-square"></a>
+    <a href="https://github.com/oumaimaLam/oumaimaLam" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/alwinw/alwinw?label=profile%20updated&style=flat-square"></a>
 </p>
 
 
