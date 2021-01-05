@@ -21,6 +21,8 @@
     <a href="https://github.com/oumaimaLam?tab=repositories&language=Jupyter" target="_blank"><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" />    
     <a href="https://github.com/oumaimaLam?tab=repositories&language=RaspberryPi" target="_blank"><img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi"></a>   
     <a href="https://github.com/oumaimaLam?tab=repositories&language=Arduino" target="_blank"><img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
+    [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
+    [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 </p>
 
 ##### Design and CAD:
