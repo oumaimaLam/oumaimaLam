@@ -15,6 +15,9 @@
     <a href="https://github.com/oumaimaLam?tab=repositories&language=git" target="_blank"><img alt="git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white"/>   
     <a href="https://github.com/oumaimaLam?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>    
     <a href="https://github.com/oumaimaLam?tab=repositories&language=Jupyter" target="_blank"><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" />    
+</p>
+
+<p align="center">
     <a href="https://github.com/oumaimaLam?tab=repositories&language=RaspberryPi" target="_blank"><img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi"></a>   
     <a href="https://github.com/oumaimaLam?tab=repositories&language=Arduino" target="_blank"><img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
 </p>
